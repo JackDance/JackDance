@@ -2,11 +2,9 @@
 
 
 
-- 👋 Hi, I’m @JackDance
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Zhihu: [浩瀚的海](https://www.zhihu.com/people/jack-zhang-28-91)
+- 👀 Research Field: object Detection, Object Tracking, Image Classification, Image Segmentation, Inference Deployment.
+- 🌱 Company: One of the world's top four accounting firms
 
 <!---
 JackDance/JackDance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
