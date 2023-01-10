@@ -4,7 +4,7 @@
 
 - 👋 Zhihu: [Mr.Luyao](https://www.zhihu.com/people/jack-zhang-28-91)
 - 👀 Research Field: Object Detection, Object Tracking, Image Classification, Image Segmentation, Inference & Deployment.
-- 🌱 Company: One of the world's top four accounting firms
+- 🌱 Company: Deloitte
 
 <!---
 JackDance/JackDance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
