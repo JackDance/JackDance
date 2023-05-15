@@ -3,7 +3,7 @@
 
 
 - 👋 Zhihu: [Mr.Luyao](https://www.zhihu.com/people/jack-zhang-28-91)
-- 👀 Research Field: Object Detection, Object Tracking, Image Classification, Image Segmentation, Inference & Deployment.
+- 👀 Research Field: AIGC, Object Detection, Tracking, Classification, Segmentation, Inference & Deployment.
 - 🌱 Company: Deloitte
 
 <!---
