@@ -3,9 +3,9 @@
 
 
 - 👋 Zhihu: [Mr.Luyao](https://www.zhihu.com/people/jack-zhang-28-91)
-- 👀 Research Field: AIGC, LLMs, Computer Vision.
+- 👀 Research Field: GAI, LLMs, Computer Vision.
 - 🌱 Company: Deloitte
-- 👯 I hope we could share and learn mutually.
+- 👯 I hope we can share and learn mutually.
 
 <!---
 JackDance/JackDance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
